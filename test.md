@@ -8,4 +8,4 @@ Tessting
 32100-fix-hello
 
 
-Testing Repo in here. develop
+Testing Repo in here. develop - 1.0.0
